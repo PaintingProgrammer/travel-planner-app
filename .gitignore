@@ -7,6 +7,6 @@ yarn-error.log*
 # Python cache and virtual environments
 __pycache__/
 *.pyc
-*.py.class
+*.pyclass
 venv/
 *.env
